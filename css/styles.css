@@ -17,6 +17,10 @@ body {
     font-family: 'Nunito';
 }
 
+#imagen-astronauta{
+    width: 10%;
+}
+
 #container{
     width: 70%;
     padding: 1em;
